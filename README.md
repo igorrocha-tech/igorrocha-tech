@@ -24,20 +24,6 @@ Meu objetivo é atuar como **Analista de Dados Júnior**, utilizando dados para 
 
 ## Projetos de Análise de Dados
 
-### Análise de Tickets de Suporte
-Projeto focado em análise de dados de chamados de suporte para identificar padrões de atendimento, volume de tickets e tempo médio de resolução.
-
-Principais análises:
-- volume de chamados por categoria
-- tempo médio de resolução
-- chamados por período
-- identificação de padrões de erro
-
-Ferramentas utilizadas:
-Python | Excel | Power BI
-
----
-
 ### Dashboard de Vendas
 Projeto de análise de dados de vendas com foco em criação de indicadores de negócio e visualização de dados.
 
@@ -50,26 +36,6 @@ Principais métricas analisadas:
 
 Ferramentas utilizadas:
 Power BI | Excel
-
----
-
-### Análise Exploratória de Dados com Python
-Projeto voltado para exploração e análise de dados utilizando Python para identificar padrões e gerar insights.
-
-Bibliotecas utilizadas:
-Pandas | Matplotlib | Seaborn
-
----
-
-## Estatísticas do GitHub
-
-![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=igorrocha-tech&show_icons=true&theme=tokyonight)
-
----
-
-## Linguagens mais utilizadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorrocha-tech&layout=compact&theme=tokyonight)
 
 ---
 
