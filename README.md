@@ -35,7 +35,9 @@ Principais métricas analisadas:
 - evolução de vendas por mês
 
 Ferramentas utilizadas:
-Power BI | Excel
+- Power BI
+- DAX
+- Power Query
 
 ---
 
